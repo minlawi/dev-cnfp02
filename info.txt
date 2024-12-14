@@ -1,1 +1,2 @@
 This is info.txt v1.0.
+This is info.txt v2.o
